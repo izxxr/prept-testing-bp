@@ -1,3 +1,6 @@
 {
-    "name": "prept-testing-bp"
+    "name": "prept-testing-bp",
+    "ignore_paths": [
+        ".git/*"
+    ]
 }
